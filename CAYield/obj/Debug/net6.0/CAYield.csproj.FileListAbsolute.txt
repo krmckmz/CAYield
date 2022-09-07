@@ -1,0 +1,15 @@
+C:\Users\cagda\Desktop\CAYield\CAYield\bin\Debug\net6.0\CAYield.exe
+C:\Users\cagda\Desktop\CAYield\CAYield\bin\Debug\net6.0\CAYield.deps.json
+C:\Users\cagda\Desktop\CAYield\CAYield\bin\Debug\net6.0\CAYield.runtimeconfig.json
+C:\Users\cagda\Desktop\CAYield\CAYield\bin\Debug\net6.0\CAYield.dll
+C:\Users\cagda\Desktop\CAYield\CAYield\bin\Debug\net6.0\CAYield.pdb
+C:\Users\cagda\Desktop\CAYield\CAYield\obj\Debug\net6.0\CAYield.csproj.AssemblyReference.cache
+C:\Users\cagda\Desktop\CAYield\CAYield\obj\Debug\net6.0\CAYield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\Desktop\CAYield\CAYield\obj\Debug\net6.0\CAYield.AssemblyInfoInputs.cache
+C:\Users\cagda\Desktop\CAYield\CAYield\obj\Debug\net6.0\CAYield.AssemblyInfo.cs
+C:\Users\cagda\Desktop\CAYield\CAYield\obj\Debug\net6.0\CAYield.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Desktop\CAYield\CAYield\obj\Debug\net6.0\CAYield.dll
+C:\Users\cagda\Desktop\CAYield\CAYield\obj\Debug\net6.0\refint\CAYield.dll
+C:\Users\cagda\Desktop\CAYield\CAYield\obj\Debug\net6.0\CAYield.pdb
+C:\Users\cagda\Desktop\CAYield\CAYield\obj\Debug\net6.0\CAYield.genruntimeconfig.cache
+C:\Users\cagda\Desktop\CAYield\CAYield\obj\Debug\net6.0\ref\CAYield.dll
