@@ -13,7 +13,7 @@ namespace CAYield
 
             while (true)
                 if (enumerator.MoveNext())
-                    System.Console.WriteLine(enumerator.Current);
+                    Console.WriteLine(enumerator.Current);
                 else
                     break;*/
 
@@ -28,7 +28,7 @@ namespace CAYield
             var integers = ToList(oddNumbers);
             foreach (var integer in integers)
             {
-                System.Console.WriteLine(integer);
+                Console.WriteLine(integer);
             }
 
             //var enumerator = oddNumbers.GetEnumerator();
